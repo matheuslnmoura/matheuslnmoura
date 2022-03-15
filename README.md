@@ -20,9 +20,10 @@
   
   ##
   
-  <div>
-    <a href="https://www.linkedin.com/in/matheuslnmoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  <a href = "mailto:matheuslnmoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div style="display: inline_block">
+    <a "display: inline_block" href="https://www.linkedin.com/in/matheuslnmoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a style= "display: inline_block" href = "mailto:matheuslnmoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+  <br/> <br/>
+ <a href="https://wakatime.com/@931df320-b04c-4053-a4b2-f78c7375317a"><img src="https://wakatime.com/badge/user/931df320-b04c-4053-a4b2-f78c7375317a.svg" alt="Total time coded since Jan 17 2022" /></a>
     
