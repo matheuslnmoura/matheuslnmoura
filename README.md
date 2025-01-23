@@ -1,7 +1,6 @@
-### Hi! I'm Matheus Moura, a brazilian web-development student that is constantly seeking new knowledge.
+### Hi! I'm Matheus Moura, a brazilian software developer.
 
-- Full-stack development student at Driven Education
-- Fun fact: I love to play drums.
+- Full-stack developer at Rede D'Or São Luiz
 
 
 
